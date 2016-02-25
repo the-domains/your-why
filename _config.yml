@@ -1,0 +1,28 @@
+name: Your Why
+favicon: null
+layout_spectrum: 0.32377523626200855
+typography_spectrum: 0.24622035841457546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.19196231476962566
+  lightness: 0.6727158378344029
+  saturation: 0.5607067497912794
+  rhythmicContrast: 0.8488581087440252
+purpose: []
